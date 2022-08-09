@@ -1,0 +1,26 @@
+.bg-img1 {
+  background-image: url("download.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 80vh;
+}
+.bg-img2 {
+  background-image: url("123.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 80vh;
+}
+.bg-img3 {
+  background-image: url("images.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 80vh;
+}
+footer {
+  height: 20vh;
+  display: flex;
+  align-items: flex-end;
+}
